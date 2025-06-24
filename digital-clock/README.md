@@ -20,12 +20,12 @@ A real-time digital clock built in pure C for terminal use. Includes keyboard sh
 
 ### On Windows:
 ```bash
-gcc digital_clock.c -o digital_clock
+gcc main.c -o digital_clock
 ./digital_clock
 ```
 ### On Linux/macOS:
 ```bash
-gcc digital_clock.c -o digital_clock
+gcc main.c -o digital_clock
 ./digital_clock
 ```
 
