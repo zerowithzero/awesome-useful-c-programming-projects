@@ -40,7 +40,7 @@ Want to contribute your own C project or improve an existing one?
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/awesome-c-projects-with-source-code
+   git clone https://github.com/zerowithzero/awesome-useful-c-programming-projects.git
 
 2. Go into the project folder:
    ```bash
