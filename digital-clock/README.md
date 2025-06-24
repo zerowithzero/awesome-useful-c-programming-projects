@@ -18,12 +18,16 @@ A real-time digital clock built in pure C for terminal use. Includes keyboard sh
 
 ## 🛠️ Compile & Run
 
-### On Linux/macOS:
-```bash
-gcc digital_clock.c -o digital_clock
-./digital_clock
-
 ### On Windows:
 ```bash
 gcc digital_clock.c -o digital_clock
 ./digital_clock
+```
+### On Linux/macOS:
+```bash
+gcc digital_clock.c -o digital_clock
+./digital_clock
+```
+
+## 💡 Author
+Made with ❤️ in C by Achal C.
