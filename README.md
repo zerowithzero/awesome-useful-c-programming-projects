@@ -35,6 +35,8 @@ Want to contribute your own C project or improve an existing one?
 - Add your project folder with README.md inside it
 - Open a Pull Request!
 
+## ⭐ Star the Repository
+If you find this helpful, don’t forget to star ⭐ this repo to support the project and reach more learners!
 
 ## 📌 How to Run Any Project
 
