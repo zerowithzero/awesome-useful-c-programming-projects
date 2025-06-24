@@ -16,8 +16,9 @@ Welcome to the **ultimate collection of C language projects**! This repository i
 |--------------|-------------|----------------|
 | 🧮 Calculator CLI | Command-line calculator | Functions, switch-case |
 | 📅 Calendar App | Displays calendar, leap year | Structures, date logic |
+| 📅 Digital Clock | Displays real time clock, blinking colon, 12/24 hrs switch | `time.h`, `conio.h` (Windows) / `termios.h` (Linux), Loops, system calls, Conditional compilation for cross-platform support |
 
-...and many more coming soon!
+...and many more!
 
 ---
 
