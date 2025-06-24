@@ -26,4 +26,4 @@ A modular command-line calculator in C featuring:
 ### 🔧 Compile
 
 ```bash
-gcc main.c calc.c -o calculator -lm
+gcc main.c -o calculator
