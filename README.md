@@ -41,8 +41,15 @@ Want to contribute your own C project or improve an existing one?
 1. Clone this repo:
    ```bash
    git clone https://github.com/your-username/awesome-c-projects-with-source-code
-   cd calculator-cli
+
+2. Go into the project folder:
+   ```bash
+   cd calendar-cli
+
+3. Compile the program using GCC:
+   ```bash
    gcc main.c -o calculator
-   ./calculator
 
-
+4. Run the exe file:
+   ```bash
+   ./calendar
