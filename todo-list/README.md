@@ -29,13 +29,13 @@ A terminal-based To-Do List app built in C using file handling, arrays, and stri
 
 ### Linux/macOS
 ```bash
-gcc todo_app.c -o todo
+gcc main.c -o todo
 ./todo
 ```
 
 ### Windows
 ```bash
-gcc todo_app.c -o todo
+gcc main.c -o todo
 todo.exe
 ```
 
