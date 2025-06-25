@@ -1,0 +1,14 @@
+======== INVOICE ========
+Date: 25-06-2025 19:20:11
+Buyer Name : ack
+Phone      : 343524
+Email      : adksjd@kdjs.com
+
+Item                 Qty        Price      Total     
+Test                 2          20.00      40.00     
+Test2                4          3.00       12.00     
+Test3                3          2.50       7.50      
+
+Subtotal: 59.50
+GST (18%): 10.71
+Grand Total: 70.21
